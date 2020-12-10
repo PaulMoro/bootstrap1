@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+h1, h2, h3 {
+    font-family: 'Times New Roman';
+}
+
 .tittle_img {
     display: flex;
     justify-content: center;
@@ -131,8 +135,8 @@
 
 
 .abajo_autor {
-    width: 70px;
-    height: 60px;
+    width: 100px;
+    height: 100px;
     border-bottom: 3px solid #333333;
     float: left;
     margin: 0px 10px;
